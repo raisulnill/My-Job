@@ -1,0 +1,17 @@
+.menu{
+	text-align:center;
+}
+td{
+	text-align:center;
+}
+.content{
+	height:350px;
+	background:#9999ff;
+}
+.menu{
+	background:#006600;
+}
+.footer{
+	background:#ccc;
+	height:30px;
+}
