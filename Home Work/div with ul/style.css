@@ -1,0 +1,46 @@
+.header{
+    overflow: hidden;
+}
+.logo{
+    float: left;
+}
+.logo img{
+    height: 50px;
+    width: 50px;
+    padding: 15px;
+    float: left;
+}
+.banner{
+    float: right;
+}
+.menu{
+    float: left;
+}
+.slider{
+    overflow: hidden;
+    float: left;
+    padding: 15px 0px;
+}
+.slider img{
+    overflow: hidden;
+    float: left;
+    height: 200px;
+    width: 1366px;
+}
+.content{
+    overflow: hidden;
+    float: left;
+}
+.content img{
+    float: left;
+    overflow: hidden;
+    height: 768px;
+    width: 1366px;
+    padding: 15px 0px;
+}
+.footer{
+    overflow: hidden;
+    color: aqua;
+    text-align: center;
+    float: left;
+}
